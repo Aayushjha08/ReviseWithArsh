@@ -1,4 +1,4 @@
-class Solution {
+public class Bulls {
     public String getHint(String secret, String guess) {
         int bull =0;
         for(int i=0; i< secret.length(); i++){
